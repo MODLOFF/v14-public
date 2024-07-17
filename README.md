@@ -18,7 +18,9 @@ Yakın zamanda botlara ait ekran görüntülerini buraya ekleyeceğim.
 
 [Acar](https://github.com/acarfx)  
 [Passenger](https://github.com/passengerrr)  
-[Only](https://github.com/onlybusinesss)
+[Only](https://github.com/onlybusinesss)  
+[Ronie](https://github.com/ronie1337)
+
 
 Altyapıda emeği olan, buraya ekleyemediğim kardeşlerim. Hepinize teşekkürler benimle discorddan iletişime geçerseniz sizleri de ekleyebilirim.
 ## Lisans
