@@ -1,0 +1,19 @@
+{
+    "Sunucu" : {
+        "Onay": "green",
+        "Iptal" : "red",
+        "Tag": "tag"
+    },
+    "Sayılar" : {
+        "Sıfır": "sifir",
+        "Bir": "bir",
+        "İki": "iki",
+        "Üç": "uc",
+        "Dört": "dort",
+        "Beş": "bes",
+        "Altı": "alti",
+        "Yedi": "yedi",
+        "Sekiz": "sekiz",
+        "Dokuz": "dokuz" 
+    }
+}

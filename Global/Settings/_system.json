@@ -1,0 +1,29 @@
+{
+    "Login" : {
+        "Moderation": "",
+        "Executive": "",
+        "Voucher": "",
+        "Guard1": "",
+        "Guard2": "",
+        "Guard3": "",
+        "Auxiliary": [
+            ""
+        ],
+        "Welcome": [
+            ""
+        ]
+    },
+
+    "Settings" : {
+        "guildID": "",
+        "root": [""],
+        "prefix": ["."],
+        "voice": "",
+        "bio": [],
+
+        "Database" : {
+            "Active": true,
+            "MongoURL": ""
+        }
+    }
+}
